@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+          <title>
+              Fotos de gatos| Meu Gatinho fofinho😸
+          </title>
+          <meta charset="UTF-8">
+          <meta name="autor" content="Daiane Pinna">
+          <meta name="assunto" content="Fotos fofas de gato.">
+          <link rel="icon" href="/img/gato.png">
+          <link rel="stylesheet" href="estilos.css" type="text/css">
+    </head>
+    <body>
+        <header>
+          <h1>Fotos fofas de Gatos😸 </h1>
+          <nav aria-label="navegação primária">
+            <ul id="lista">
+                <li>
+                    <a href="/index.html">Home</a>
+                </li>
+                <li> 
+                    <a href="#Fatos">Fatos sobre gatos</a>
+                </li>
+                <li>
+                    <a href="/formulário-felino.html">Formulário de gatos</a>
+                </li>
+            </ul>
+          </nav>
+          <hr>
+        </header>
+        <main>
+        <div id="galeria">
+        <figure>
+<img src="https://www.maxpetfood.com.br/wp-content/uploads/2023/02/image-170.png" alt=" Um de gato amarelo"> 
+<figcaption> Um gato amarelo de raça Persa.</figcaption>
+        </figure>
+        <figure>
+<img src="https://i0.wp.com/opresenterural.com.br/wp-content/uploads/2019/10/mimi.jpg?w=1400&ssl=1" alt=" Três filhotes de gatos ."> 
+<figcaption> Três filhotes de gatos.</figcaption>
+        </figure>
+        </div>
+        </main>        
+    <hr>
+    <p> <a href="/fotos-de-gatos.html">Voltar ao topo</a>
+    </p>          
+        <footer>
+            <p>
+                &lt; &copy;Copyright app Meu gatinho fofinho😸&gt;
+            </p>
+        </footer>
+    </body>
+</html>
