@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    <head>
-          <title>
-              Formulário de gatos| Meu Gatinho fofinho😸
-          </title>
+    <head> <title>Formulário de gatos| Meu Gatinho fofinho😸</title>
           <meta charset="UTF-8">
           <meta name="autor" content="Daiane Pinna">
           <meta name="assunto" content="Formulário de pesquisa de gatos.">
@@ -30,7 +27,7 @@
                 <h2>Formulário-felino</h2>
                 <p>Responda a pesquisa e nos ajude a entender mais sobre esses bichinhos lindos</p>
                 <p>PS:Se você quiser, pode anexar uma foto do seu gato para fazer parte de nossa galeria.</p>
-                                   <fieldset>
+        <fieldset>
                         <legend>
                             Informações sobre seu gato
                         </legend>
@@ -39,7 +36,7 @@
                          <input type="text" name="nomeGato" id="nomeGato" placeholder="Slow" autocomplete="on" required autofocus>
                          </p>
                          <p>
-                         <label> Quantos gatos você tem?</label>
+                         <label>Quantos gatos você tem?</label>
                          <input type="number" name="idadedegato" id="idadedegato" min="1" max="30" value="1" step="1">
                         </p>
                         <p>Seu gato(s) fica dentro de casa ou tem acesso a rua?</p>
@@ -56,8 +53,7 @@
                                 <input type="checkbox" name="personalidade" id="manhoso">
                                 <label for="manhoso">Manhoso</label>
                              </p>
-                             <p>
-                                <input type="checkbox" name="personalidade" id="preguiçoso">
+                             <p><input type="checkbox" name="personalidade" id="preguiçoso">
                                 <label for="preguiçoso">Preguiçoso</label>
                              </p>
                              <p>
@@ -82,13 +78,12 @@
                              <button type="submit">Enviar</button>
                              <button type="reset">Redefinir</button>
                         </article>       
-        </main>       
+        </main>  
     <hr>
     <p> <a href="/formulário-felino.html"> Voltar ao topo</a> 
     </p>          
         <footer>
-            <p>
-                &lt; &copy;Copyright app Meu gatinho fofinho😸&gt;
+            <p> &lt; &copy;Copyright app Meu gatinho fofinho😸&gt;
             </p>
         </footer>
     </body>
