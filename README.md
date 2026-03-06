@@ -20,10 +20,8 @@
                 </li>
                 <li> 
                     <a href="/fotos-de-gatos.html">Fotos de gatos</a>
-                </li>
-                              
+                </li>                              
             </ul>
-
           </nav>
           <hr>
         </header>
@@ -32,8 +30,7 @@
                 <h2>Formulário-felino</h2>
                 <p>Responda a pesquisa e nos ajude a entender mais sobre esses bichinhos lindos</p>
                 <p>PS:Se você quiser, pode anexar uma foto do seu gato para fazer parte de nossa galeria.</p>
-               
-                    <fieldset>
+                                   <fieldset>
                         <legend>
                             Informações sobre seu gato
                         </legend>
@@ -45,18 +42,15 @@
                          <label> Quantos gatos você tem?</label>
                          <input type="number" name="idadedegato" id="idadedegato" min="1" max="30" value="1" step="1">
                         </p>
-                        <p>
-                             Seu gato(s) fica dentro de casa ou tem acesso a rua?</p>
+                        <p>Seu gato(s) fica dentro de casa ou tem acesso a rua?</p>
                              <p>
-                                <input type="radio" name="casaRua" id="casa" value="casa">
+                                 <input type="radio" name="casaRua" id="casa" value="casa">
                                 <label for="casa">Fica em casa</label>
                              </p>
-                      
                              <p>
                                 <input type="radio" name="casaRua" id="rua" value="rua">
                                 <label for="rua">Sai para a rua</label>
                              </p>
-
                              <p>Como é a personalidade do seu gato?</p>
                              <p>
                                 <input type="checkbox" name="personalidade" id="manhoso">
@@ -87,19 +81,15 @@
                              <br>
                              <button type="submit">Enviar</button>
                              <button type="reset">Redefinir</button>
-
-                        </article>
-       
-        </main>        
+                        </article>       
+        </main>       
     <hr>
     <p> <a href="/formulário-felino.html"> Voltar ao topo</a> 
-    </p>
-          
+    </p>          
         <footer>
             <p>
                 &lt; &copy;Copyright app Meu gatinho fofinho😸&gt;
             </p>
         </footer>
-
     </body>
 </html>
